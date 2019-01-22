@@ -93,5 +93,13 @@ Week 8: Unsupervised Learning
 
 Week 9: Anamaly Detection
 
-    
+    Density Estimation
+       Problem motivation
+       Gaussian Distribution
+
+    Building an Anomaly Detection System
+
+    Multivariate Gaussian Distribution
+
+Week 10: 
 
