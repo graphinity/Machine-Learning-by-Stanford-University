@@ -51,3 +51,21 @@ Week 4: Neural Networks: Representation
 
     Applications
    
+Neural Networks: Learning
+
+    Cost Function
+    Backpropogation algorithm
+    Backpropogation in practice
+
+
+Advice for Applying Machine Learning
+
+    Evaluating a Learning Algorithm
+       Evaluating Hypothesis
+       Model selection and train/ validation/ test sets
+
+    Bias vs. Variance
+      Diagnosing bias vs. variance
+      Regularization and bias/ variance
+      Learning curves
+
