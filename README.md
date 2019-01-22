@@ -51,14 +51,14 @@ Week 4: Neural Networks: Representation
 
     Applications
    
-Neural Networks: Learning
+Week 5: Neural Networks: Learning
 
     Cost Function
     Backpropogation algorithm
     Backpropogation in practice
 
 
-Advice for Applying Machine Learning
+Week 6: Advice for Applying Machine Learning
 
     Evaluating a Learning Algorithm
        Evaluating Hypothesis
@@ -69,3 +69,27 @@ Advice for Applying Machine Learning
       Regularization and bias/ variance
       Learning curves
 
+Week 7: Support Vector Machines
+
+    Large Margin Classification
+    Kernels
+    SVMs in Practice
+    
+Week 8: Unsupervised Learning
+
+    Clustering
+       Unsupervised learning
+       K-means algorithm
+       Optimization objective
+       Random initialization
+       Choosing number of clusters
+
+    Dimensionality Reduction
+       Motivation: Data Compression
+       Motivation: Visualization
+       Principal Component Analysis
+       Applying PCA
+
+Week 9: Anamaly Detection
+
+    
