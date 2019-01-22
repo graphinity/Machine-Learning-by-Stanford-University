@@ -101,5 +101,15 @@ Week 9: Anamaly Detection
 
     Multivariate Gaussian Distribution
 
-Week 10: 
+Week 10: Large Scale Machine Learning
+
+    Gradient Descent with Large Datasets
+        Stochastic Gradient Descent
+        Mini batch Gradient Descent
+        Stochastic Gradient Descent Convergence
+
+    Advanced Topics
+        Map reduce and Data parallelism
+        
+Week 11: Application Example: Photo OCR
 
